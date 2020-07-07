@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MyTestSoap\bin\Debug\MyTestSoap.exe.config
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MyTestSoap\bin\Debug\MyTestSoap.exe
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MyTestSoap\bin\Debug\MyTestSoap.pdb
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MyTestSoap\obj\Debug\MyTestSoap.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MyTestSoap\obj\Debug\MyTestSoap.Form1.resources
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MyTestSoap\obj\Debug\MyTestSoap.Properties.Resources.resources
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MyTestSoap\obj\Debug\MyTestSoap.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MyTestSoap\obj\Debug\MyTestSoap.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MyTestSoap\obj\Debug\MyTestSoap.exe
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MyTestSoap\obj\Debug\MyTestSoap.pdb

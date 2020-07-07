@@ -1,0 +1,6 @@
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MySoapService\bin\MySoapService.dll.config
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MySoapService\bin\MySoapService.dll
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MySoapService\bin\MySoapService.pdb
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MySoapService\obj\Debug\MySoapService.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MySoapService\obj\Debug\MySoapService.dll
+C:\Users\Kevin\source\repos\WindowsFormsApp3\MySoapService\obj\Debug\MySoapService.pdb
